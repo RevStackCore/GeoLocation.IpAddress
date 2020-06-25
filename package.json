@@ -1,0 +1,19 @@
+{
+  "name": "RevStackCore.GeoLocation.IpAddress",
+  "version": "1.0.0",
+  "description": "IP Address to Geolocation Translation Service.",
+	"main": "RevStackCore.GeoLocation.IpAddresssln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+		"url": "https://github.com/RevStackCore/GeoLocation.IpAddress.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+		"url": "https://github.com/RevStackCore/GeoLocation.IpAddress/issues"
+  },
+	"homepage": "https://github.com/RevStackCore/GeoLocation.IpAddress"
+}
